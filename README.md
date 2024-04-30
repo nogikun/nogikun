@@ -1,4 +1,12 @@
 ### Hi there 👋
+大学で主に機械学習などを学んでいます。
+
+Portfolio：[RESUME](https://www.resume.id/nogikun)
+
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&langs_count=8)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&layout=compact)-->
 
 <!--
 **nogikun/nogikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
