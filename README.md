@@ -3,11 +3,10 @@
 
 Portfolio：[RESUME](https://www.resume.id/nogikun)
 
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&langs_count=8)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&layout=compact)-->
-
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=nogikun)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--
 **nogikun/nogikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
