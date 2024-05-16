@@ -4,6 +4,7 @@
 - Portfolio(RESUME)：[@nogikun](https://www.resume.id/nogikun)
 - Atcoder：[@nogikun](https://atcoder.jp/users/nogikun)
 - Kaggle：[@tkazuaki](https://www.kaggle.com/tkazuaki)
+<!--- Zenn：[@nogikun](https://zenn.dev/nogikun)-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&langs_count=8)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&layout=compact)-->
