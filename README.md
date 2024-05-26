@@ -1,7 +1,7 @@
 ### Hi there 👋
 大学で主に機械学習などを学んでいます。
-
-- Portfolio(RESUME)：[@nogikun](https://www.resume.id/nogikun)
+- Portfolio：[Notion site](https://sticky-wandflower-070.notion.site/Documents-447698083eca4544a7e09a1700fd7969)
+<!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
 - Atcoder：[@nogikun](https://atcoder.jp/users/nogikun)
 - Kaggle：[@tkazuaki](https://www.kaggle.com/tkazuaki)
 - Zenn：[@nogikun](https://zenn.dev/nogikun)
