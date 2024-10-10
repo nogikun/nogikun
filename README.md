@@ -1,5 +1,9 @@
 ### Hi there 👋
 大学で主に機械学習などを学んでいます。
+
+ミーティングのスケジューラーを導入しました。
+御用のある方は [こちら](https://cal.com/nogikun/meeting?layout=mobile&date=2024-10-10&month=2024-10) から予約ください。
+
 - Portfolio：[Notion site](https://nogikun.notion.site)
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
 - Atcoder：[@nogikun](https://atcoder.jp/users/nogikun)
