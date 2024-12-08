@@ -2,7 +2,7 @@
 大学で主に機械学習などを学んでいます。
 
 ミーティングのスケジューラーを導入しました。
-ご用のある方は [こちら](https://cal.com/nogikun/meeting?layout=mobile&date=2024-10-10&month=2024-10) から予約ください。
+ご用のある方は [こちら](https://cal.com/nogikun/meeting) から予約ください。
 
 - Portfolio：[Notion site](https://nogikun.notion.site)
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
