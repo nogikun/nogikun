@@ -18,6 +18,17 @@
 <!-- - Zenn：[@nogikun](https://zenn.dev/nogikun) -->
 <!-- - HuggingFace：[@nogikun](https://huggingface.co/nogikun) -->
 
+## Developments
+
+[![NeuroDenoise](https://img.shields.io/badge/-NeuroDenoise-000000.svg?logo=GitHub)](https://github.com/nogikun/NeuroDenoise)
+[![DiscussPlanner](https://img.shields.io/badge/-DiscussPlanner-000000.svg?logo=GitHub)](https://github.com/BPS-sys/DiscussPlanner)
+[![DLab](https://img.shields.io/badge/-DLab-000000.svg?logo=GitHub)](https://github.com/yukihito-jokyu/DLab)
+[![ImageRecipeFinder](https://img.shields.io/badge/-ImageRecipeFinder-000000.svg?logo=GitHub)](https://github.com/nogikun/ImageRecipeFinder)
+[![AI_Workshop](https://img.shields.io/badge/-AI_Workshop-000000.svg?logo=GitHub)](https://github.com/nogikun/AI_Workshop)
+[![LINEbot_News_Summarizer](https://img.shields.io/badge/-LINEbot_News_Summarizer-000000.svg?logo=GitHub)](https://github.com/nogikun/LINEbot_News_Summarizer)
+
+
+
 ## Most Used Languages
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&langs_count=8&show_icons=true&theme=transparent&hide_border=true&locale=en&text_color=999999&hide_title=true&hide=jupyter%20notebook)
