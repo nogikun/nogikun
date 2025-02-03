@@ -10,6 +10,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://www.kaggle.com/tkazuaki)
 [![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://zenn.dev/nogikun)
 [![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://huggingface.co/nogikun)
+[![Cal.com](https://img.shields.io/badge/-Cal.com-000000.svg?logo=caldotcom)](https://cal.com/nogikun/meeting)
 
 <!-- - Portfolio：[Notion site](https://nogikun.notion.site) -->
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
