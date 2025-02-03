@@ -6,11 +6,12 @@
 
 ## Links
 
-[![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-000000.svg?logo=Notion)](https://nogikun.notion.site)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://www.kaggle.com/tkazuaki)
-[![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://zenn.dev/nogikun)
-[![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://huggingface.co/nogikun)
-[![Cal.com](https://img.shields.io/badge/-Cal.com-000000.svg?logo=caldotcom)](https://cal.com/nogikun/meeting)
+[![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-5b5b5b.svg?logo=Notion)](https://nogikun.notion.site)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-5b5b5b.svg?logo=Kaggle)](https://www.kaggle.com/tkazuaki)
+[![Zenn](https://img.shields.io/badge/-Zenn-5b5b5b.svg?logo=Zenn)](https://zenn.dev/nogikun)
+[![Zenn](https://img.shields.io/badge/-Huggingface-5b5b5b.svg?logo=huggingface)](https://huggingface.co/nogikun)
+[![Rating](https://badgen.org/img/atcoder/nogikun/rating/algorithm?style=flat)](https://atcoder.jp/users/nogikun?contestType=algo)
+[![Cal.com](https://img.shields.io/badge/-Cal.com-5b5b5b.svg?logo=caldotcom)](https://cal.com/nogikun/meeting)
 
 <!-- - Portfolio：[Notion site](https://nogikun.notion.site) -->
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
