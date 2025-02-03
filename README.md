@@ -5,12 +5,18 @@
 ご用のある方は [こちら](https://cal.com/nogikun/meeting) から予約ください。
 
 ## Links
-- Portfolio：[Notion site](https://nogikun.notion.site)
+
+[![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-000000.svg?logo=Notion)](https://nogikun.notion.site)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://nogikun.notion.site)
+[![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://nogikun.notion.site)
+[![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://nogikun.notion.site)
+
+<!-- - Portfolio：[Notion site](https://nogikun.notion.site) -->
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
-- Atcoder：[@nogikun](https://atcoder.jp/users/nogikun)
-- Kaggle：[@tkazuaki](https://www.kaggle.com/tkazuaki)
-- Zenn：[@nogikun](https://zenn.dev/nogikun)
-- HuggingFace：[@nogikun](https://huggingface.co/nogikun)
+<!-- - Atcoder：[@nogikun](https://atcoder.jp/users/nogikun) -->
+<!-- - Kaggle：[@tkazuaki](https://www.kaggle.com/tkazuaki) -->
+<!-- - Zenn：[@nogikun](https://zenn.dev/nogikun) -->
+<!-- - HuggingFace：[@nogikun](https://huggingface.co/nogikun) -->
 
 ## Most Used Languages
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
