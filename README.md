@@ -7,9 +7,9 @@
 ## Links
 
 [![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-000000.svg?logo=Notion)](https://nogikun.notion.site)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://nogikun.notion.site)
-[![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://nogikun.notion.site)
-[![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://nogikun.notion.site)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://www.kaggle.com/tkazuaki)
+[![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://zenn.dev/nogikun)
+[![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://huggingface.co/nogikun)
 
 <!-- - Portfolio：[Notion site](https://nogikun.notion.site) -->
 <!-- - RESUME：[@nogikun](https://www.resume.id/nogikun) -->
