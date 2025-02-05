@@ -31,7 +31,7 @@
 [![LINEbot_News_Summarizer](https://img.shields.io/badge/-LINEbot_News_Summarizer-000000.svg?logo=GitHub)](https://github.com/nogikun/LINEbot_News_Summarizer)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,matlab,fastapi,flask,html,css,js,figma,ai,mysql,postgres,firebase,pytorch,postman,unity&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,fastapi,flask,html,css,js,figma,ai,mysql,postgres,firebase,pytorch,sklearn,postman,unity&perline=10)](https://skillicons.dev)
 
 ## Most Used Languages
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
