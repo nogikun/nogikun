@@ -6,11 +6,11 @@
 
 ## Links
 
-[![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-000000.svg?logo=Notion)](https://nogikun.notion.site)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000000.svg?logo=Kaggle)](https://www.kaggle.com/tkazuaki)
-[![Zenn](https://img.shields.io/badge/-Zenn-000000.svg?logo=Zenn)](https://zenn.dev/nogikun)
-[![Zenn](https://img.shields.io/badge/-Huggingface-000000.svg?logo=huggingface)](https://huggingface.co/nogikun)
-[![Cal.com](https://img.shields.io/badge/-Cal.com-000000.svg?logo=caldotcom)](https://cal.com/nogikun/meeting)  
+[![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-0D1117.svg?logo=Notion&style=for-the-badge)](https://nogikun.notion.site)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0D1117.svg?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/tkazuaki)
+[![Zenn](https://img.shields.io/badge/-Zenn-0D1117.svg?logo=Zenn&style=for-the-badge)](https://zenn.dev/nogikun)
+[![Zenn](https://img.shields.io/badge/-Huggingface-0D1117.svg?logo=huggingface&style=for-the-badge)](https://huggingface.co/nogikun)
+[![Cal.com](https://img.shields.io/badge/-Cal.com-0D1117.svg?logo=caldotcom&style=for-the-badge)](https://cal.com/nogikun/meeting)  
 <!--[![Rating](https://badgen.org/img/atcoder/nogikun/rating/algorithm?style=flat&color=brack
 )](https://atcoder.jp/users/nogikun?contestType=algo) -->
 
@@ -23,12 +23,12 @@
 
 ## Developments
 
-[![NeuroDenoise](https://img.shields.io/badge/-NeuroDenoise-000000.svg?logo=GitHub)](https://github.com/nogikun/NeuroDenoise)
-[![DiscussPlanner](https://img.shields.io/badge/-DiscussPlanner-000000.svg?logo=GitHub)](https://github.com/BPS-sys/DiscussPlanner)
-[![DLab](https://img.shields.io/badge/-DLab-000000.svg?logo=GitHub)](https://github.com/yukihito-jokyu/DLab)
-[![ImageRecipeFinder](https://img.shields.io/badge/-ImageRecipeFinder-000000.svg?logo=GitHub)](https://github.com/nogikun/ImageRecipeFinder)
-[![AI_Workshop](https://img.shields.io/badge/-AI_Workshop-000000.svg?logo=GitHub)](https://github.com/nogikun/AI_Workshop)
-[![LINEbot_News_Summarizer](https://img.shields.io/badge/-LINEbot_News_Summarizer-000000.svg?logo=GitHub)](https://github.com/nogikun/LINEbot_News_Summarizer)
+[![NeuroDenoise](https://img.shields.io/badge/-NeuroDenoise-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/NeuroDenoise)
+[![DiscussPlanner](https://img.shields.io/badge/-DiscussPlanner-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/BPS-sys/DiscussPlanner)
+[![DLab](https://img.shields.io/badge/-DLab-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/yukihito-jokyu/DLab)  
+[![ImageRecipeFinder](https://img.shields.io/badge/-ImageRecipeFinder-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/ImageRecipeFinder)
+[![AI_Workshop](https://img.shields.io/badge/-AI_Workshop-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/AI_Workshop)
+[![LINEbot_News_Summarizer](https://img.shields.io/badge/-LINEbot_News_Summarizer-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/LINEbot_News_Summarizer)  
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,fastapi,flask,html,css,js,figma,ai,mysql,postgres,firebase,pytorch,sklearn,postman,unity&perline=10)](https://skillicons.dev)
