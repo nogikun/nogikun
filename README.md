@@ -9,6 +9,7 @@
 [![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-0D1117.svg?logo=Notion&style=for-the-badge)](https://nogikun.notion.site)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0D1117.svg?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/tkazuaki)
 [![Zenn](https://img.shields.io/badge/-Zenn-0D1117.svg?logo=Zenn&style=for-the-badge)](https://zenn.dev/nogikun)
+[![Note](https://img.shields.io/badge/note-0D1117?style=for-the-badge&label=n&labelColor=0D1117)](https://note.com/nogikun)
 [![Zenn](https://img.shields.io/badge/-Huggingface-0D1117.svg?logo=huggingface&style=for-the-badge)](https://huggingface.co/nogikun)
 [![Cal.com](https://img.shields.io/badge/-Cal.com-0D1117.svg?logo=caldotcom&style=for-the-badge)](https://cal.com/nogikun/meeting)  
 <!--[![Rating](https://badgen.org/img/atcoder/nogikun/rating/algorithm?style=flat&color=brack
