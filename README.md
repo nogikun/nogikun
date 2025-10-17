@@ -41,7 +41,7 @@
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=nogikun)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ## Env
-![dotfiles](https://img.shields.io/badge/dotfiles-0D1117?logo=github&logoColor=ffffff&style=flat)
+[![dotfiles](https://img.shields.io/badge/dotfiles-0D1117?logo=github&logoColor=ffffff&style=flat)](https://github.com/nogikun/dotfiles)
 
 <!--
 **nogikun/nogikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
