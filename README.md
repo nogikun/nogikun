@@ -11,6 +11,7 @@
 [![Zenn](https://img.shields.io/badge/-Zenn-0D1117.svg?logo=Zenn&style=for-the-badge)](https://zenn.dev/nogikun)
 [![Note](https://img.shields.io/badge/note-0D1117?style=for-the-badge&label=n&labelColor=0D1117)](https://note.com/nogikun)
 [![Zenn](https://img.shields.io/badge/-Huggingface-0D1117.svg?logo=huggingface&style=for-the-badge)](https://huggingface.co/nogikun)
+[![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-0D1117?logo=speakerdeck&logoColor=009287&style=for-the-badge)](https://speakerdeck.com/nogikun)
 [![Cal.com](https://img.shields.io/badge/-Cal.com-0D1117.svg?logo=caldotcom&style=for-the-badge)](https://cal.com/nogikun/meeting)  
 <!--[![Rating](https://badgen.org/img/atcoder/nogikun/rating/algorithm?style=flat&color=brack
 )](https://atcoder.jp/users/nogikun?contestType=algo) -->
