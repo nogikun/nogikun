@@ -43,7 +43,9 @@
 
 ## Env
 [![dotfiles](https://img.shields.io/badge/dotfiles-0D1117?logo=github&logoColor=ffffff&style=flat)](https://github.com/nogikun/dotfiles)
-[![dotfiles](https://img.shields.io/badge/sh-0D1117?logo=github&logoColor=ffffff&style=flat)](https://github.com/nogikun/sh)
+[![sh](https://img.shields.io/badge/sh-0D1117?logo=github&logoColor=ffffff&style=flat)](https://github.com/nogikun/sh)
+[![DevContainers](https://img.shields.io/badge/DevContainers-0D1117?logo=github&logoColor=ffffff&style=flat)](https://github.com/nogikun/DevContainers)
+
 
 <!--
 **nogikun/nogikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
