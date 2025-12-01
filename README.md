@@ -24,8 +24,8 @@
 <!-- - HuggingFace：[@nogikun](https://huggingface.co/nogikun) -->
 
 ## Developments
-
-[![NeuroDenoise](https://img.shields.io/badge/-NeuroDenoise-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/NeuroDenoise)
+<!-- [![NeuroDenoise](https://img.shields.io/badge/-NeuroDenoise-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/NeuroDenoise) -->
+[![YorisoiBot](https://img.shields.io/badge/-YorisoiBot-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/YorisoiBot) 
 [![DiscussPlanner](https://img.shields.io/badge/-DiscussPlanner-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/BPS-sys/DiscussPlanner)
 [![DLab](https://img.shields.io/badge/-DLab-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/yukihito-jokyu/DLab)  
 [![ImageRecipeFinder](https://img.shields.io/badge/-ImageRecipeFinder-0D1117.svg?logo=GitHub&style=for-the-badge)](https://github.com/nogikun/ImageRecipeFinder)
