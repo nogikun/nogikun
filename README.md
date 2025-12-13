@@ -5,7 +5,7 @@
 ご用のある方は [こちら](https://cal.com/nogikun/meeting) から予約ください。
 
 ## Links
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?logo=github&logoColor=ffffff&style=for-the-badge)](https://portfolio.nogikun.com)
 [![Notion](https://img.shields.io/badge/-Notion%20|%20ポートフォリオ-0D1117.svg?logo=Notion&style=for-the-badge)](https://nogikun.notion.site)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0D1117.svg?logo=Kaggle&style=for-the-badge)](https://www.kaggle.com/tkazuaki)
 [![Zenn](https://img.shields.io/badge/-Zenn-0D1117.svg?logo=Zenn&style=for-the-badge)](https://zenn.dev/nogikun)
