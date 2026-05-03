@@ -1,8 +1,11 @@
 ### Hi there 👋
-大学で主に機械学習などを学んでいます。
 
-ミーティングのスケジューラーを導入しました。
+SEをしながら、のんびり開発をしています。
+<!--
+大学で主に機械学習などを学んでいます。  
+ミーティングのスケジューラーを導入しました。  
 ご用のある方は [こちら](https://cal.com/nogikun/meeting) から予約ください。
+-->
 
 ## Links
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?logo=github&logoColor=ffffff&style=for-the-badge)](https://portfolio.nogikun.com)
