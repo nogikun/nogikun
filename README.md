@@ -38,9 +38,11 @@ SEをしながら、のんびり開発をしています。
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,fastapi,flask,html,css,js,figma,ai,mysql,postgres,firebase,pytorch,sklearn,postman,unity&perline=10)](https://skillicons.dev)
 
-## Most Used Languages
+<!-- ## Most Used Languages -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogikun)](https://github.com/anuraghazra/github-readme-stats)<br>-->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&langs_count=8&show_icons=true&theme=transparent&hide_border=true&locale=en&text_color=999999&hide_title=true&hide=jupyter%20notebook)
+-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogikun&layout=compact)-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=nogikun)](https://github.com/ryo-ma/github-profile-trophy)-->
 
